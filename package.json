@@ -1,0 +1,26 @@
+{
+  "name": "forking-paths",
+  "version": "0.0.1",
+  "description": "Living histories of mutable sound",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/worldmaking/forking-paths.git"
+  },
+  "keywords": [
+    "Alice",
+    "Lab"
+  ],
+  "author": "Alice Lab, York University",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/worldmaking/forking-paths/issues"
+  },
+  "homepage": "https://github.com/worldmaking/forking-paths#readme",
+  "dependencies": {
+    "gl-matrix": "^3.3.0"
+  }
+}
